@@ -21,3 +21,11 @@ link: https://wireframe.cc/7DryeP
 ** kids Outfit page wireframe**\
 link: https://wireframe.cc/9naijt
 
+** LogIn page wireframe**\
+link: https://wireframe.cc/JDoK8w
+
+** SignUp page wireframe**\
+link: https://wireframe.cc/ayU9rlhttp
+
+** Sellers page wireframe**\
+link: https://wireframe.cc/q6In6U
