@@ -13,6 +13,7 @@ nextEl: '.swiper-button-next',
 prevEl: '.swiper-button-prev',
 },
 });
+
 function clicked() {
     var response = prompt('E.Signature', "Full Name");
     if (confirm("Press Confirm!")) {
