@@ -1,0 +1,10 @@
+#banner {
+    background-image: url(../images/online_merchant.jpeg);
+    align-items: center;
+    background-position: 50%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    min-height: 405px;
+    padding: 0.5%;
+}
